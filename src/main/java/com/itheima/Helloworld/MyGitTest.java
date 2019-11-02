@@ -10,5 +10,6 @@ public class MyGitTest {
         System.out.println("hello world");
         System.out.println("I am userB");
         System.out.println("I am userA");
+        System.out.println("I am A and B");
     }
 }
