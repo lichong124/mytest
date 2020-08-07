@@ -4,10 +4,10 @@ spring:
     username: root
     password: 123456
   name: chongge1
-  redis:
-    host: localhost
-    port: 6379
-    password:
+#   redis:
+#     host: localhost
+#     port: 6379
+#     password:
 rabbitmq:
   host: localhost
   port: 5672
